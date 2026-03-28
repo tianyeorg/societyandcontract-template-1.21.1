@@ -1,0 +1,11 @@
+{
+  "block.society_and_contract.ore.team_create_ore": "队伍创建器原矿",
+  "item.society_and_contract.material.team_create_ingot": "队伍创建器原锭",
+  "item.society_and_contract.material.team_create_material": "队伍创建器碎片",
+  "item.society_and_contract.tool.team_create_tool": "队伍创建器",
+  "itemGroup.societyandcontract_block_tab": "社会与契约-方块",
+  "itemGroup.societyandcontract_material_tab": "社会与契约-原料",
+  "itemGroup.societyandcontract_tool_tab": "社会与契约-工具",
+  "key.category.society_and_contract": "社会与契约",
+  "key.society_and_contract.team_list": "显示队伍列表"
+}

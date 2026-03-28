@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "society_and_contract:block/ore/team_create_ore"
+  }
+}

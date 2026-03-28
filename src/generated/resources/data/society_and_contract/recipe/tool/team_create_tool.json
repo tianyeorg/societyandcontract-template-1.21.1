@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "E": {
+      "item": "society_and_contract:material/team_create_ingot"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#Eg",
+    "EPE",
+    "iEc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "society_and_contract:tool/team_create_tool"
+  }
+}

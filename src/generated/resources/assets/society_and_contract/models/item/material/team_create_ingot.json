@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "society_and_contract:item/material/team_create_ingot"
+  }
+}

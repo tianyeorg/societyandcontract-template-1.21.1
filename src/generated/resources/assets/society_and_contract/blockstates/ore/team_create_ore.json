@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "society_and_contract:block/ore/team_create_ore"
+    }
+  }
+}

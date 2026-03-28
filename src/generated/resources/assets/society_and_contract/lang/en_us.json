@@ -1,0 +1,9 @@
+{
+  "block.society_and_contract.ore.team_create_ore": "Team Create Ore",
+  "item.society_and_contract.material.team_create_ingot": "Team Create Ingot",
+  "item.society_and_contract.material.team_create_material": "Team Create Material",
+  "item.society_and_contract.tool.team_create_tool": "Team Create Tool",
+  "itemGroup.societyandcontract_block_tab": "Society and Contract-Block",
+  "itemGroup.societyandcontract_material_tab": "Society and Contract-Material",
+  "itemGroup.societyandcontract_tool_tab": "Society and Contract-Tool"
+}

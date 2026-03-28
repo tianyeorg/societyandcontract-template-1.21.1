@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_material/team_create_material": {
+      "conditions": {
+        "items": [
+          {
+            "items": "society_and_contract:material/team_create_material"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "society_and_contract:material/team_create_ingot_from_blasting_material/team_create_material"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_material/team_create_material"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "society_and_contract:material/team_create_ingot_from_blasting_material/team_create_material"
+    ]
+  }
+}

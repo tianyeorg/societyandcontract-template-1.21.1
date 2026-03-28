@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.3,
+  "group": "team_creat_ingot",
+  "ingredient": {
+    "item": "society_and_contract:material/team_create_material"
+  },
+  "result": {
+    "count": 1,
+    "id": "society_and_contract:material/team_create_ingot"
+  }
+}
